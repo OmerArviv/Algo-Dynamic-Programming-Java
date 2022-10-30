@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Algo Buildings:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Algo_Buildings_jar</output-path>
+    <root id="archive" name="Algo Buildings.jar">
+      <element id="module-output" name="Algo Buildings" />
+    </root>
+  </artifact>
+</component>
